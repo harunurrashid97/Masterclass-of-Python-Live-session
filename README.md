@@ -1,2 +1,2 @@
-# Masterclass-of-Python-Live-session-
+# Masterclass-of-Python-Live-session
 Live masterclass on Python 
